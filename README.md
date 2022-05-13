@@ -1,7 +1,7 @@
 ## Running the App (Windows)
 
 
-1) Open up Museum_Project folder
+1) Open up AG-Museum folder
 2) Press My_Project.exe
 
 3) Use the WASD commands to move and Spacebar to jump
